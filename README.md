@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @msalman88.
 - 👀 I’m interested in Data Science and Machine Learning related topics.
-- 🌱 I’m currently learning AI in Digital Marketing.
+- 🌱 I’m currently learning AI in Signal Processing.
 - 📫 How to reach me salmanakram88@gmail.com.
 
 <!---
