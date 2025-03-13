@@ -11,7 +11,7 @@
 Skills & Expertise
 DevOps Tools: Kubernetes, Docker, Jenkins, Terraform, Ansible, Prometheus, Grafana.
 
-Cloud Platforms: AWS, Azure, GCP.
+Cloud Platforms: AWS, Azure.
 
 CI/CD Pipelines: Designing and implementing robust CI/CD workflows.
 
