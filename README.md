@@ -1,24 +1,10 @@
-👋 Hi, I’m @msalman88.
+MLOps Engineer passionate about bridging the gap between machine learning and operations. With a solid background as both a Machine Learning Engineer and a Cloud DevOps Engineer, I specialize in building automated, scalable, and reproducible ML systems.
 
-👀 I’m a Senior DevOps Engineer with expertise in Kubernetes (k8s) and Microservices Architecture.
+My goal is to transform ML prototypes into production-grade solutions. I thrive on architecting CI/CD pipelines that ensure models are not just built, but are also reliably deployed, monitored, and retrained.
 
-🌱 I’m currently learning AI in Signal Processing and exploring its applications in cloud-native environments.
+Core Competencies:
+🤖 ML Lifecycle Automation: CI/CD for Machine Learning (GitHub Actions, Jenkins), Model Versioning, Experiment Tracking (MLflow).
+☁️ Cloud & Infrastructure: AWS, Azure, Docker, Kubernetes (K8s).
+🐍 Programming & Data Science: Python, Scikit-learn, Pandas.
 
-💡 I’m passionate about Data Science, Machine Learning, and leveraging DevOps practices to build scalable, efficient systems.
-
-📫 How to reach me: salmanakram88@gmail.com.
-
-Skills & Expertise
-DevOps Tools: Kubernetes, Docker, Jenkins, Terraform, Ansible, Prometheus, Grafana.
-
-Cloud Platforms: AWS, Azure.
-
-CI/CD Pipelines: Designing and implementing robust CI/CD workflows.
-
-Microservices: Architecting and managing microservices-based systems.
-
-Programming: Python, Bash, Go.
-
-Data Science & ML: Pandas, NumPy, Scikit-learn, TensorFlow.
-
-<!--- msalman88/msalman88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+I'm currently documenting my journey to master MLOps by building a portfolio of end-to-end case studies in public. Let's connect and talk about automating the future of AI!
